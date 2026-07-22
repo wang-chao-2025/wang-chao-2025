@@ -14,6 +14,14 @@
 
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wang-chao-2025/wang-chao-2025/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wang-chao-2025/wang-chao-2025/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/wang-chao-2025/wang-chao-2025/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## 👋 About Me
 
 我是一名 **Java / Python 后端开发者**，熟悉常见业务接口开发、数据访问和缓存设计。目前主要关注 **RAG、Agent、MCP 工具调用和 AIOps** 方向的应用开发。
