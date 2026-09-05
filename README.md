@@ -48,7 +48,7 @@
 - 🧩 **RAG 与工具协同**：检索增强、MCP、Tool Calling 与任务型 Agent 的组合方式
 - 👥 **Multi-Agent 系统**：任务拆分、角色分工、并行执行与协作结果汇总
 - 🛡️ **Agent 安全执行**：命令、路径、规则、权限模式与人工确认构成的执行边界
-- 🚨 **智能运维 Agent**：日志和监控工具调用、故障排查与结构化诊断输出
+- 🚨 **智能运维 Agent**：日志和监控工具调用、故障排查与结构化诊断输出.
 
 <div align="center">
   <img src="./assets/agent-focus.jpg" width="520" alt="Agent engineering focus" />
